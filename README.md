@@ -3,4 +3,4 @@ Aprendendo a usar Git/GitHub pela plataforma DIO
 
 ## Link da plataforma DIO
 
-[DIO] (https://www.dio.me/)
+[DIO](https://www.dio.me/)
